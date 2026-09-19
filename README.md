@@ -6,9 +6,7 @@ This project demonstrates the step-by-step journey of an HTTP Request when visit
 
 ## 🎨 Diagram
 
-![YouTube Request Lifecycle](./Untitled-2026-09-19-1816)
-
-
+![YouTube Request Lifecycle](./youtube-request-flow.png)
 
 ---
 
@@ -22,7 +20,7 @@ This project demonstrates the step-by-step journey of an HTTP Request when visit
 
 ### 2. HTTP Request & Response
 * **HTTP Request:** Now that the browser has the IP address, it sends an `HTTP GET Request` directly to the **YouTube Backend Server** asking for the homepage content (`/`).
-* **HTTP Response:** The **YouTube Backend Server** processes the request and responds with an `HTTP Status Code 200 OK` along with the necessary web assets (HTML, CSS, JavaScript, and video metadata) to render the webpage on your screen.
+* **HTTP Response:** The **YouTube Backend Server** processes the request and responds with an `HTTP Status Code 200 OK` along with the necessary web assets (HTML, CSS, JavaScript) to render the webpage on your screen.
 
 ---
 

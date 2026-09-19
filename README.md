@@ -1,4 +1,3 @@
-# Task1.Backend
 # How the Web Works - Request & Response Lifecycle
 
 This project demonstrates the step-by-step journey of an HTTP Request when visiting **YouTube** from a web browser.

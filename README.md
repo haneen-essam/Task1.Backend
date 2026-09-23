@@ -24,7 +24,7 @@ This project demonstrates the step-by-step journey of an HTTP Request when visit
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 * **Excalidraw:** Used for drawing the Request Lifecycle Diagram.
 * **GitHub:** For version control and hosting the documentation.
 

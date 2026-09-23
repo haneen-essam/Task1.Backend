@@ -4,13 +4,13 @@ This project demonstrates the step-by-step journey of an HTTP Request when visit
 
 ---
 
-## 🎨 Diagram
+## Diagram
 
 ![YouTube Request Lifecycle](./youtube-request-flow.png)
 
 ---
 
-## 🚀 How it Works (Step-by-Step Breakdown)
+## How it Works (Step-by-Step Breakdown)
 
 ### 1. DNS Resolution
 * **DNS Query:** When you type `https://youtube.com` into the browser and hit Enter, the **Client (Browser)** doesn't know the IP address of the server. It first asks the **DNS Server**: *"What is the IP address for youtube.com?"*.
